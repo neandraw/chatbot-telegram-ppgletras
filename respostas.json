@@ -1,0 +1,38 @@
+{
+  "qual o prazo para rematrícula?": "O prazo para matrícula é divulgado no site oficial do PPGLetras. Fique atento aos editais!",
+  "como funciona a seleção?": "O processo seletivo envolve prova, análise do Lattes, projeto e entrevista.",
+  "como faço minha inscrição?": "A inscrição deve ser feita pelo site oficial do PPGLetras.",
+  "qual o e-mail da secretaria?": "Você pode entrar em contato pelo e-mail: ppgletras@uems.br",
+  "aula hoje": "Você pode ver o calendário de aulas em: https://www.uems.br/ppg/ppgletras/Disciplinas/Disciplinas-2025-1",
+  "como solicitar declaração?": "Para solicitar declaração, envie um e-mail para a secretaria com seu nome completo e matrícula.",
+  
+  "menu": {
+    "resposta": "Digite uma pergunta ou escolha uma opção abaixo:",
+    "botoes": [
+      { "texto": "📄 Formulários" },
+      { "texto": "📆 Calendário Acadêmico" },
+      { "texto": "📚 Banco de Dissertações" },
+      { "texto": "📢 Editais" }
+    ]
+  },
+  
+  "📄 formulários": {
+    "resposta": "Acesse os formulários disponíveis:",
+    "botao": {
+      "texto": "Ver Formulários",
+      "url": "https://www.uems.br/ppg/ppgletras/Documentos-e-Formularios/Requerimentos-e-Solicitacoes"
+    }
+  },
+  
+  "📆 calendário acadêmico": "O calendário acadêmico está disponível no site oficial: https://www.uems.br/ppg/ppgletras/Disciplinas",
+  
+  "📚 linhas de pesquisa": "Banco de Dissertações disponível no site oficial: https://www.uems.br/ppg/ppgletras/Banco-de-Dissertacoes",
+  
+  "📢 editais": {
+    "resposta": "Confira os editais abertos:",
+    "botao": {
+      "texto": "Ver Editais",
+      "url": "https://www.uems.br/ppg/ppgletras/Insercao-Social"
+    }
+  }
+}
