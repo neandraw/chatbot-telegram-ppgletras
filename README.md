@@ -42,9 +42,21 @@ npm install
 
 4. Configure o token do seu bot no Telegram:
 
+Abra o aplicativo do Telegram e procure pelo usuário @BotFather.
+Inicie uma conversa e envie o comando /start.
+Envie o comando /newbot para criar um novo bot.
+O BotFather pedirá dois dados: 
+Nome do bot (pode ser qualquer nome, por exemplo: "Bot Atendimento").
+Username do bot (precisa terminar com bot, como "meu_chatbot_bot").
+
+Após criar o bot, o BotFather enviará uma mensagem com o Token de Acesso.
+
 No arquivo index.js, substitua o token real:
 
 const bot = new Telegraf('SEU_TOKEN_DO_BOT_AQUI');
+
+⚠️ Atenção:
+Não compartilhe seu token publicamente. Ele permite controle total sobre o seu bot!
 
 5. Execute o bot:
 node index.js
@@ -73,4 +85,4 @@ respostas.json
 Neandra AW.
 Desenvolvido como parte do Projeto Integrador do curso de Tecnologia em Sistemas para Internet - UFMS.
 
-Copyright (c) 2025 Neandra W.
+Copyright (c) 2025 Neandra AW.
